@@ -13,8 +13,8 @@ const Body = () => {
     className="black_btn"
  >Find Me </button>
     </nav> 
-
-    <h1 className='mt-5 text-5xl font-extrabold'> Welcome to <span className='mt-5 text-5xl font-extrabold bg-gradient-to-r from-red-500 to-yellow-400 bg-clip-text text-transparent'>Summize</span>👋
+<h1 className='mt-5 text-5xl font-extrabold'> Welcome to <span className='mt-5 text-5xl font-extrabold bg-gradient-to-r from-red-500 to-yellow-400 bg-clip-text text-transparent'>
+      Summize</span>👋
 </h1>
  
  <h1 className='head_text'>
