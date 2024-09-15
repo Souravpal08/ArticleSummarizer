@@ -161,7 +161,5 @@ const handleDelete = (index) => {
   );
 };
 
-   
-
 export default ShowDemo
 
